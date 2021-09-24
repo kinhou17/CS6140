@@ -1,0 +1,13 @@
+TestFile results:
+
+Alpha used: 0.005
+Vocabulary size used: 200000
+
+TP:37
+FP:13
+FN:0
+TN:50
+Accuracy: 0.7699115044247787
+Precision: 0.74
+Recall: 1.0
+F Score: 0.8505747126436781
